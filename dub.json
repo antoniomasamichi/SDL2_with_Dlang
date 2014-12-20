@@ -1,0 +1,9 @@
+{
+	"name": "firstsample",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2014, 11236",
+	"authors": ["11236"],
+	"dependencies": {
+        "derelict-sdl2": ">=1.2.9"
+	}
+}
